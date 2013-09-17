@@ -25,5 +25,5 @@ __________                                          .__
 
 
 <div style="width:100%; float:left">
-These are the generative sketches of Brendon Smith they are built with Processing a Java and JavaSript / hmtl 5 capabale language.  These are studies that I use to produce interactive art work, print work, and paintings.
+These are the generative sketches by Brendon Smith they are built with Processing a Java and JavaSript / hmtl 5 capabale language.  These are studies that I use to produce interactive art work, print work, and paintings.
 </div>
