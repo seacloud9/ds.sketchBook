@@ -1,5 +1,6 @@
 ds.sketchBook
 =============
+<div style="width:100%; float:left">
    ___                          _   _               
   / _ \___ _ __   ___ _ __ __ _| |_(_)_   _____     
  / /_\/ _ \ '_ \ / _ \ '__/ _` | __| \ \ / / _ \    
@@ -17,7 +18,8 @@ ds.sketchBook
 \ \| |/ / _ \ __/ __| '_ \   /__\/// _ \ / _ \| |/ /
 _\ \   <  __/ || (__| | | | / \/  \ (_) | (_) |   < 
 \__/_|\_\___|\__\___|_| |_| \_____/\___/ \___/|_|\_\
-                                                                                                
+</div>
+
 
 <div style="width:100%; float:left">
 These are the generative sketches of Brendon Smith they are built with Processing a Java and JavaSript / hmtl 5 capabale language.  These are studies that I use to produce interactive art work, print work, and paintings.
