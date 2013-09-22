@@ -1,4 +1,5 @@
 ds.sketchBook
+(DemoScene).sketchBook
 =============
 <div style="width:100%; float:left">
 <pre>
