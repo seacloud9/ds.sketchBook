@@ -27,7 +27,7 @@ int[][][][] voxel=new int[Size][Size][Size][4];
 
 public void setup(){
   //size(400,400,OPENGL);
-  size(800, 500, P3D);
+  size(800, 800, P3D);
   frameRate(30);
   tex = loadImage("grass.png");
   textureMode(NORMAL);
