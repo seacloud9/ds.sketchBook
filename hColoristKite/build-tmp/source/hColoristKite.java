@@ -20,7 +20,8 @@ public class hColoristKite extends PApplet {
 // and http://processingjs.org/reference/font/
 // for more information.
 
-/* @pjs preload="sintra.jpg"; */
+/* @pjs preload="kitetest3.png"; */
+/* @pjs transparent="true"; */
 
 HDrawablePool pool;
 HTimer timer;
@@ -72,12 +73,12 @@ public void pixelateImage(){
 
 public void setup() {
 	size(2160,1080);
-	H.init(this).background(255);
+	H.init(this);
 	smooth();
 	img = loadImage("kitetest3.png");
 	timer = new HTimer()
 		.numCycles( 999 )
-		.interval(25)
+		.interval(250)
 		.callback(
 			new HCallback() { 
 				public void run(Object obj) {
