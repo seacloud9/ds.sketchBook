@@ -36,3 +36,6 @@ These are the generative sketches by Brendon Smith they are built with Processin
 <div style="float:left; width:100%; margin-top:20px;">
 	<img src="screenshot3.jpg" style="float:left; width:100%"/>
 </div>	
+<div style="float:left; width:100%; margin-top:20px;">
+	<img src="fractal_invaders1.gif" style="float:left; width:100%"/>
+</div>	
