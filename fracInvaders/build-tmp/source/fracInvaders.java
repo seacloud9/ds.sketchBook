@@ -16,6 +16,7 @@ import java.io.IOException;
 
 public class fracInvaders extends PApplet {
 
+//moded from http://levitated.net/daily/levInvaderFractal.html and http://p5art.tumblr.com/post/64965449647/space-invaders-var1-variations-on-this-theme
 
 P8gGraphicsSVG svg;
 int sz = 100;
